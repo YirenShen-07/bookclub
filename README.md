@@ -17,6 +17,5 @@ Based on the book “A Hacker's Mind”, developed a simulation of the complete 
 ### Running results.
 The code run will show the complete attack and defense process, including.
 - Vulnerability discovery and analysis.
-- Vulnerability discovery and analysis.
 - Defense detection and response
 - Patch development and countermeasures
