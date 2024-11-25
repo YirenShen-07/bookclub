@@ -9,6 +9,7 @@ Based on the book “A Hacker's Mind”, developed a simulation of the complete 
 **Simulation Code:** Implemented a complete attack lifecycle simulation in Python, including the stages of vulnerability discovery, analysis, and exploitation.
 
 **Attack and Defense Timeline Analysis:** The timeline clearly shows the whole process of vulnerability from discovery, attack to defense, making it easy to understand the sequence of events and response timing.
+
 **Distribution of Vulnerability Types:** Pie chart showing the distribution of the two vulnerability types in the dataset.
 
 ### Implementation process：
