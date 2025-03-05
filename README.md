@@ -25,4 +25,4 @@ The code run will show the complete attack and defense process, including.
 - Patch development and countermeasures
 
 ### Reference：
-Schneier, Bruce. A Hacker’s Mind: How the Powerful Bend Society’s Rules, and How to Bend Them Back. W.W. Norton & Company, 2024.
+Schneier, Bruce. A Hacker’s Mind: How the Powerful Bend Society’s Rules, and How to Bend Them Back. W.W. Norton & Company, 2023.
